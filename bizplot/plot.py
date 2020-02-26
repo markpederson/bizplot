@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.ticker as mticker
 
-from utility import global_vars, hide_ax_spines
-from axis import Axis
+from bizplot.utility import global_vars, hide_ax_spines
+from bizplot.axis import Axis
 
 
 class Plot:

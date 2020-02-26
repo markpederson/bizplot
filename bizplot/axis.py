@@ -1,4 +1,4 @@
-from utility import global_vars
+from bizplot.utility import global_vars
 
 
 class Axis:
